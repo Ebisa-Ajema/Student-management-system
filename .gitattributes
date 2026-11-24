@@ -1,0 +1,3 @@
+# Third-party front-end libraries (AdminLTE, Bootstrap, plugins): not counted in the language stats.
+static/** linguist-vendored
+student_management_app/static/** linguist-vendored
